@@ -1,9 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "EngineMinimal.h"
+
 #include "Fountain.h"
-#include "Fountain.generated.h"
-#include "GameFramework/Actor.h"
 
 // Sets default values
 AFountain::AFountain()
